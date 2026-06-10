@@ -1,0 +1,9 @@
+# Stray MCP credentials dir — never commit
+~/
+
+# Playwright MCP artifacts
+.playwright-mcp/
+
+# Dependencies & build output (also covered by app .gitignore)
+node_modules/
+.next/
